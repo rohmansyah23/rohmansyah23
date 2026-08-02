@@ -1,5 +1,9 @@
 # Hey There! 👋
-**I'm Rohman (SyahrWorks)** - a BNSP-certified fullstack developer from Jakarta, Indonesia. I build web & mobile apps with Next.js, TypeScript, Flutter, PHP & Go, and I'm wrapping up my Bachelor of IT at Universitas Bina Sarana Informatika.
+
+I'm Rohman (SyahrWorks), a full-stack developer from Indonesia 🇮🇩.
+I build modern web and mobile applications using Next.js, TypeScript, Flutter, PHP, and Go.
+
+🎓 Final-year Information Technology student at Universitas Bina Sarana Informatika.
 
 Check out my [portfolio](https://syahrworks.vercel.app).
 
