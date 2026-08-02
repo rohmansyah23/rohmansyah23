@@ -1,11 +1,12 @@
-# Hey There! 👋
+# Hi, I'm Rohman 👋
 
-I'm Rohman (SyahrWorks), a full-stack developer from Indonesia 🇮🇩.
-I build modern web and mobile applications using Next.js, TypeScript, Flutter, PHP, and Go.
+I'm Rohman (SyahrWorks), a full-stack developer from Indonesia 🇮🇩, building modern web and mobile applications with Next.js, TypeScript, Flutter, PHP, and Go.
+
+I enjoy creating fast, scalable, and user-friendly applications while continuously learning new technologies.
 
 🎓 Final-year Information Technology student at Universitas Bina Sarana Informatika.
 
-Check out my [portfolio](https://syahrworks.vercel.app).
+🌐 Portfolio → https://syahrworks.vercel.app
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,go,php,react,nextjs,tailwind,bootstrap,mysql,postgresql,supabase,prisma,firebase,flutter,dart,kotlin,git,github,vercel)](https://skillicons.dev)
 
