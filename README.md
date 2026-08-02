@@ -14,6 +14,7 @@ Check out my [portfolio](https://syahrworks.vercel.app).
 <details>
   <summary>Github Stats ⚡</summary>
 
-  [![Github stats](https://github-readme-stats.vercel.app/api?username=rohmansyah23&show_icons=true&theme=midnight-purple&hide_border=true)](https://github.com/rohmansyah23)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohmansyah23&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/rohmansyah23)
+  [![Github stats](https://ghstats.dev/api/card?username=rohmansyah23&title_color=a78bfa&icon_color=7c3aed&hide_border=true)](https://github.com/rohmansyah23)
+  [![Top Langs](https://ghstats.dev/api/langs?username=rohmansyah23&layout=donut&title_color=a78bfa&hide_border=true)](https://github.com/rohmansyah23)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=rohmansyah23&theme=midnight-purple&hide_border=true)](https://github.com/rohmansyah23)
 </details>
