@@ -6,7 +6,7 @@ I enjoy creating fast, scalable, and user-friendly applications while continuous
 
 🎓 Final-year Information Technology student at Universitas Bina Sarana Informatika.
 
-🌐 **Portfolio:** https://syahrworks.com
+🌐 **Portfolio:** www.syahrworks.com
 
 ## Tech Stack
 
