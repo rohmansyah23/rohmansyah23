@@ -1,6 +1,6 @@
 # Hi, I'm Rohman 👋
 
-[![Profile views](https://komarev.com/ghpvc/?username=rohmansyah23&style=for-the-badge&color=7c3aed)](https://github.com/rohmansyah23)
+<img src="https://komarev.com/ghpvc/?username=rohmansyah23&style=for-the-badge&color=7c3aed" alt="Profile views" style="border-radius: 12px" />
 
 I'm **Rohman (SyahrWorks)**, a full-stack developer from Indonesia 🇮🇩, building modern web and mobile applications with **Next.js**, **TypeScript**, **Flutter**, **PHP**, and **Go**.
 
