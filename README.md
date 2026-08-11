@@ -30,6 +30,6 @@ I enjoy creating fast, scalable, and user-friendly applications while continuous
 
 [![Top Languages](https://ghstats.dev/api/langs?username=rohmansyah23&layout=donut&title_color=a78bfa&hide_border=true)](https://github.com/rohmansyah23)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rohmansyah23&theme=midnight-purple&hide_border=true)](https://github.com/rohmansyah23)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=rohmansyah23&theme=midnight-purple&hide_border=true)](https://github.com/rohmansyah23)
 
 </details>
